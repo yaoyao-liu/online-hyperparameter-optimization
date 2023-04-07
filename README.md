@@ -1,6 +1,8 @@
 # Online Hyperparameter Optimization for Class-Incremental Learning
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/yaoyao-liu/online-hyperparameter-optimization/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square&logo=python&color=3776AB)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/pytorch-1.2.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
 
 [[Paper](https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content)] [[Project Page](https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/)]
 
