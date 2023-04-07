@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.6-blue.svg?style=flat-square&logo=python&color=3776AB)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-1.2.0-%237732a8?style=flat-square&logo=PyTorch&color=EE4C2C)](https://pytorch.org/)
 
-[[Paper](https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content)] [[Project Page](https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/)]
+[[Paper](https://arxiv.org/pdf/2301.05032.pdf)] [[Project Page](https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/)]
 
 This repository contains the PyTorch implementation for the [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) Paper ["Online Hyperparameter Optimization for Class-Incremental Learning"](https://arxiv.org/pdf/2301.05032.pdf) by [Yaoyao Liu](https://people.mpi-inf.mpg.de/~yaliu/), [Yingying Li](https://yingying.li), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), and [Qianru Sun](https://qianrusun1015.github.io). If you have any questions on this repository or the related paper, feel free to [create an issue](https://github.com/yaoyao-liu/online-hyperparameter-optimization/issues/new) or [send me an email](mailto:yliu538@jhu.edu).
 
