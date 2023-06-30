@@ -69,13 +69,16 @@ We will update the code for other baselines later.
 Please cite our papers if they are helpful to your work:
 
 ```bibtex
-@inproceedings{Liu2023Online,
-  author       = {Liu, Yaoyao and
-                  Li, Yingying and
-                  Schiele, Bernt and
-                  Sun, Qianru},
-  title        = {Online Hyperparameter Optimization for Class-Incremental Learning},
-  booktitle    = {Thirty-Seventh {AAAI} Conference on Artificial Intelligence},
-  year         = {2023}
+@article{Liu2023Online, 
+  title   = {Online Hyperparameter Optimization for Class-Incremental Learning}, 
+  author  = {Liu, Yaoyao and Li, Yingying and Schiele, Bernt and Sun, Qianru}, 
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  volume  = {37}, 
+  number  = {7}, 
+  year    = {2023}, 
+  month   = {Jun.}, 
+  pages   = {8906-8913},
+  URL     = {https://ojs.aaai.org/index.php/AAAI/article/view/26070}, 
+  DOI     = {10.1609/aaai.v37i7.26070}, 
 }
 ```
